@@ -1,9 +1,6 @@
-<p align="center"><img src="https://www.funai.us/wp-content/uploads/funai_corp_logo_40x322-2.png" width="400"></p>
+## Active Directory Authentication
 
-## PO Arrival
-
-The intent of this project is to replace the existing PO Arrival form in Dynamics AX with a new PO Arrival application developed in PHP. This new application will be a lightweight, flexible, browser-based application used to introduce validations in the receiving of goods to Funai warehouses.
-The goal of this project is to allow for near real-time product receipt data in Dynamics AX, and to remove manual processes of data entry and validation in Dynamics AX.
+The intent of this repository is to Login Active Directory Users into laravel application without saving them in database.
 
 ## Installation
 
